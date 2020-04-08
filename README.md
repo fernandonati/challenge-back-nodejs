@@ -9,8 +9,8 @@
 </tr>
 </table>
 
-**This is a solution of Challenge Backend in NodeJs by https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs**
- Developed with Javascript - NodeJs using (Express) (used Yarn on this project)
+**This is a solution of Challenge Backend in NodeJs by https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs**<br>
+ Developed with Javascript - NodeJs using (Express) (Yarn used in this project)
 
 ## Installation
 
